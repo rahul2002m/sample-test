@@ -1,1 +1,2 @@
+tabs: ["main.py"]
 run-button: python3 $$file
